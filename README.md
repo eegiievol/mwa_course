@@ -1,1 +1,1 @@
-# mwa_course
+MWA course assignments 
