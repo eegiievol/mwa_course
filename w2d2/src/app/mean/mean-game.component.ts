@@ -6,5 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./mean-game.component.css'],
 })
 export class MeanGameComponent {
-  logo = '../../assets/compro-web-logo-442x112.webp';
+  logo = '../../assets/logo.webp';
+  url = 'https://compro.miu.edu';
+  copyright = '2020 Maharishi International University. All Rights Reserved.';
 }

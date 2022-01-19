@@ -4,7 +4,7 @@ import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { AboutComponent } from './about/about.component';
-import { MeanGameComponent } from './mean-game/mean-game.component';
+import { MeanGameComponent } from './mean/mean-game.component';
 import { StudentsComponent } from './students/students.component';
 
 @NgModule({
